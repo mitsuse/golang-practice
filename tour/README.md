@@ -11,3 +11,4 @@ This directory contains source codes for exercises in
 - [cbrt.go](cbrt.go) - [Advanced Exercise: Complex cube roots](http://tour.golang.org/#50)
 - [error.go](error.go) - [Exercise: Errors](http://tour.golang.org/#58)
 - [http.go](http.go) - [Exercise: HTTP Handlers](http://tour.golang.org/#60)
+- [images.go](images.go) - [Exercise: Images](http://tour.golang.org/#62)
