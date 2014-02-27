@@ -12,3 +12,4 @@ This directory contains source codes for exercises in
 - [error.go](error.go) - [Exercise: Errors](http://tour.golang.org/#58)
 - [http.go](http.go) - [Exercise: HTTP Handlers](http://tour.golang.org/#60)
 - [images.go](images.go) - [Exercise: Images](http://tour.golang.org/#62)
+- [reader.go](reader.go) - [Exercise: Rot13 Reader](http://tour.golang.org/#63)
